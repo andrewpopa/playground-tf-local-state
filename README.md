@@ -1,5 +1,5 @@
 # playground-tf-local-state
-will create local null resource 
+will create local null resource
 
 # Pre-requisites 
 
